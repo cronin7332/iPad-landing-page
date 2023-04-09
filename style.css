@@ -35,8 +35,8 @@ html,body{
 #left #textcenter{
     font-family: "Gilroy";
     position: absolute;
-    top: 70%;
-    left: 35%;
+    top: 65%;
+    left: 37%;
     transform: translate(-50%,-50%);
 }
 
